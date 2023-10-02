@@ -1,0 +1,1 @@
+'/home/franciny/sql-from-zero-to-hero/00_create_database.sql'
