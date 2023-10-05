@@ -7,7 +7,7 @@ VALUES('Html'),
     ('Javascript'),
     ('Autocuidado'),
     ('Alizados'),
-    ('Amor propio')
+    ('Amor propio'),
     ('Tinturar'),
     ('Manicure'),
     ('Pestañas');
