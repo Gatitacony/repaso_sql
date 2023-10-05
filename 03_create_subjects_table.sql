@@ -1,4 +1,4 @@
--- primero conectamos la bdd
+
 \c new_school
 DROP TABLE IF EXISTS subjects;
 CREATE TABLE subjects (

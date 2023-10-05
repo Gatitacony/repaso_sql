@@ -5,5 +5,5 @@ VALUES('Gonzalo'),
     ('Sebastian'),
     ('Francisca'),
     ('Silvia'),
-    ('Miriam')
+    ('Miriam'),
     ('Cinthia');
