@@ -7,7 +7,6 @@ CREATE TABLE points (
 
     id SERIAL PRIMARY KEY 
     student_id INTEGER
-
     
     FOREIGN KEY (student_id) REFERENCES students (id)
 );
